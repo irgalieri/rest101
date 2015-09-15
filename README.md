@@ -26,7 +26,7 @@ $> php -S 127.0.0.1:8080 soap/server.php
 $> php -S 127.0.0.1:8081 rest/server.php
 ```
 
-- Third open rest101-soap-vs-rest-soapui-project.xml with soapui
+- Third open the file rest101-soap-vs-rest-soapui-project.xml with soapui
 
 - Finally run the load test cases (for more info see [Load Testing](http://www.soapui.org/getting-started/load-testing.html)).
 
@@ -55,4 +55,4 @@ All these values were obtained running soapUI load test case with n threads for
 
 ## Conclusion
 
-As you can see the REST server response is twice faster than SOAP server.
+The graphs of this compararison speaks for itself. And you can see the REST server response is twice faster than SOAP server.
