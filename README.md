@@ -55,4 +55,4 @@ All these values were obtained running soapUI load test case with n threads for
 
 ## Conclusion
 
-The graphs of this compararison speaks for itself. And you can see the REST server response is twice faster than SOAP server.
+The graphs of this comparison speaks for itself. And you can see the REST server response is twice faster than SOAP server.
