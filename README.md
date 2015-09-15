@@ -51,7 +51,7 @@ All these values were obtained running soapUI load test case with n threads for
 
 #### Graphs
 
-[![Rest vs SOAP](https://github.com/irgalieri/rest101/blob/master/img/restvssoap.png)
+![Rest vs SOAP](https://github.com/irgalieri/rest101/blob/master/img/restvssoap.png)
 
 ## Conclusion
 
